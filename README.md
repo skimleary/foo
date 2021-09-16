@@ -1,1 +1,1 @@
-### Throwaway code that may remain useful
+### Throwaway code that could remain useful
